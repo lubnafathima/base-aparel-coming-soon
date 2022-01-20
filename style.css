@@ -155,6 +155,17 @@
     .section {
         text-align: left;
         align-items: left;
+        position: absolute;
+        top: 50%;
+        left: 0%;
+        transform: translate(-0%,-50%);
+        font-size: 100%;
+    }
+    .h1 {
+        font-size: 4vw;
+    }
+    .p {
+        font-size: 1.5vw;
     }
     .form {
         padding-left: 0;
